@@ -1,0 +1,20 @@
+﻿BankAppUI
+
+
+winexe
+C#
+.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Release\net5.0-windows\
+BankAppUI
+none
+false
+TRACE;RELEASE;NET;NET5_0;NETCOREAPP
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\App.xaml
+9-112194835
+
+12-1007233965
+197-2107221363
+AccountStatement.xaml;Admin.xaml;CreateAccount.xaml;Customer.xaml;GetAllUsers.xaml;MainWindow.xaml;Register.xaml;Transfer.xaml;UserRole.xaml;
+
+True
+

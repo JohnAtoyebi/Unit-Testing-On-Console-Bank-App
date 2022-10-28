@@ -1,0 +1,40 @@
+﻿<Window x:Class="BankAppUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankAppUI"
+        mc:Ignorable="d"
+        Title="Welcome" Height="500" Width="889" Background="Blue" >
+    <Grid x:Name="btnExit" Width="889" Background="#FF3686DC" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblWelcome" Content="MY PIGGY BANK" Grid.Row="0" Grid.ColumnSpan="3"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" 
+               FontWeight="Bold" FontFamily="Arial Black" FontStretch="Medium" />
+        <Label x:Name="lblEmail" Content="Email" Grid.Row="1" Grid.Column="0"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" 
+               FontWeight="Bold" FontFamily="Arial Black" FontStretch="Medium" />
+        <Label x:Name="lblPassword" Content="Password" Grid.Row="2" Grid.Column="0"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" 
+               FontWeight="Bold" FontFamily="Arial Black" FontStretch="Medium" />
+        <TextBox x:Name="txtEmail" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" VerticalAlignment="Center" Width="358" Height="34" FontWeight="Bold" FontSize="24" FontFamily="Times New Roman" />
+        <TextBox x:Name="txtPassword" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" VerticalAlignment="Center" Width="358" Height="34" FontSize="24" FontWeight="Bold" FontFamily="Times New Roman"/>
+        <Button x:Name="btnExit1" Background="#FF22A2D1" Width="146" Height="46" BorderBrush="White" BorderThickness="3"
+                Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Margin="5" FontFamily="Times New Roman" FontSize="22" FontWeight="Bold" Click="btnExit1_Click"> Exit </Button>
+        <Button x:Name="btnLogin" Background="#FF22A2D1" Width="146" Height="46" BorderBrush="White" BorderThickness="3"
+            Grid.Row="3" Grid.Column="2" HorizontalAlignment="Left" Margin="5" FontFamily="Times New Roman" FontSize="22" FontWeight="Bold" Click="btnLogin_Click"> Login
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\bin\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\refint\BankAppCore.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll

@@ -1,0 +1,90 @@
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.exe
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.deps.json
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.json
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.dev.json
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\ref\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.pdb
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\AccountStatement.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Admin.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\CreateAccount.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Customer.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\GetAllUsers.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Register.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Transfer.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\UserRole.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI_MarkupCompile.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI_MarkupCompile.lref
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\AccountStatement.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Admin.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\CreateAccount.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Customer.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\GetAllUsers.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Register.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\Transfer.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\UserRole.baml
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.g.resources
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfo.cs
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CopyComplete
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\ref\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\craft\source\repos\SQ010\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.exe
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.deps.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\AccountStatement.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Admin.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\CreateAccount.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Customer.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\GetAllUsers.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Register.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Transfer.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\UserRole.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI_MarkupCompile.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI_MarkupCompile.lref
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\AccountStatement.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Admin.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\CreateAccount.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Customer.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\GetAllUsers.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Register.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\Transfer.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\UserRole.baml
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.g.resources
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CopyComplete
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\refint\BankAppUI.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK FIVE\Task Five\BankAppUI\obj\Debug\net5.0-windows\ref\BankAppUI.dll

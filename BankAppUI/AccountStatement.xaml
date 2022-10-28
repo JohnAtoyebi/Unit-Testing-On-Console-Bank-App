@@ -1,0 +1,31 @@
+﻿<Window x:Class="BankAppUI.AccountStatement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankAppUI"
+        mc:Ignorable="d"
+        Title="AccountStatement" Height="778" Width="1049">
+    <Grid Height="778" Width="1049" Background="#FF3686DC">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Label x:Name="lblWelcome" Content="Choose Account" Grid.Row="0" Grid.ColumnSpan="3"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" FontFamily="Times New Roman" FontWeight="Bold" />
+        <ComboBox x:Name="cmbChooseAccount" Grid.Row="0" Grid.Column="2"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="353" Height="34" BorderBrush="#FF171414" FontFamily="Times New Roman" FontWeight="Bold" FontSize="14" />
+        <DataGrid x:Name="dgAccountStatement" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" FontFamily="Times New Roman" Margin="10" ColumnHeaderHeight="6">
+            
+        </DataGrid>
+
+
+    </Grid>
+</Window>

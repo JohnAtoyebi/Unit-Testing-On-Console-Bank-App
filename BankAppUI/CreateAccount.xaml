@@ -1,0 +1,40 @@
+﻿<Window x:Class="BankAppUI.CreateAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankAppUI"
+        mc:Ignorable="d"
+        Title="CreateAccount" Height="497" Width="818">
+    <Grid  Width="818" Background="#FF3686DC">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblInitialAmt" Content="Initial Amount" Grid.Row="1" Grid.Column="0"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" 
+               FontWeight="Bold" FontFamily="Arial Black" FontStretch="Medium" />
+
+        <Label x:Name="lblAccountType" Content="Account Type" Grid.Row="2" Grid.Column="0"  
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" 
+               FontWeight="Bold" FontFamily="Arial Black" FontStretch="Medium" />
+
+        <TextBox x:Name="txtInitailAmt" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" 
+                 HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Height="34" />
+        <RadioButton x:Name="rdbSaving" Content="Saving" Grid.Row="2" Grid.Column="1" FontFamily="Times New Roman"
+                     FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Height="40" FontStretch="Medium" FontWeight="Bold"/>
+        <RadioButton x:Name="rdbCurrent" Content="Current" Grid.Row="2" Grid.Column="2" FontFamily="Times New Roman"
+                     FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Height="40" FontStretch="Medium" FontWeight="Bold"/>
+        <Button x:Name="btnAdd" Background="#FF22A2D1" Width="146" Height="46" BorderBrush="White" BorderThickness="3"
+            Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center" Margin="5" FontFamily="Times New Roman" FontSize="22" FontWeight="Bold">Add
+        </Button>
+    </Grid>
+</Window>
